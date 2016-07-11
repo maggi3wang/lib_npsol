@@ -1,0 +1,29 @@
+# TOMLAB license: 999100
+# Created: 2016-06-28
+#
+LICENSE_INFO licnum: 999100; company: Tomlab user; lictype: Demo license; tusc: 2016-07-19; expr: 2016-07-19; os: Windows 32-bit, Windows 64-bit, Linux 32-bit, Linux 64-bit, Mac OS X 64-bit; tl: 9823737097; packages: /SOL + /CGO + /Xpress MEX + /CPLEX Full + 17 more; key1: 6d80bb7c; key2: fb4676c1;
+TOMLAB_BASE licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 4196951a; key2: c7a62fbe;
+TOMLAB_MINOS licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 3435dda6; key2: c1b2167a;
+TOMLAB_NPSOL licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 80c61cca; key2: 500fed1c;
+TOMLAB_SNOPT licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 4a7ca9f2; key2: bf186de0;
+TOMLAB_CGO licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 2e129384; key2: 21540de2;
+TOMLAB_XPRESS licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 1740833a; key2: 02cebd2c;
+TOMLAB_CPLEX cpxlic: full; licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 583d95bc; key2: 86ca78f5;
+TOMLAB_MINLP licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: bdbdfbff; key2: 3fdaaab5;
+TOMLAB_PENSDP licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 3c3c0d14; key2: 1a54d88d;
+TOMLAB_PENBMI licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: e5b1e573; key2: 554cf965;
+TOMLAB_KNITRO ktrlic: full; licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: c5234d56; key2: ac35856c;
+TOMLAB_MSNLP licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 0419166c; key2: b00555e1;
+TOMLAB_OQNLP licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 08da8c48; key2: d41dca55;
+TOMLAB_CONOPT licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 1caa2b98; key2: 2176bbbe;
+TOMLAB_NLPQL licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: e0cb94ae; key2: ebb0b2ab;
+TOMLAB_MISQP licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 199a77c8; key2: 578937f0;
+TOMLAB_MIPNLP licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: d536f54a; key2: 394e74d4;
+TOMLAB_LGO licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 58012eb5; key2: 08dee701;
+TOMLAB_GP licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 2b981c57; key2: 311bc667;
+TOMLAB_MAD licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: f710e5a1; key2: 085f30f5;
+TOMLAB_AMPL licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 60aa968e; key2: 1234c086;
+TOMLAB_GENO licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 97bfeaf8; key2: 723892eb;
+TOMLAB_PROPT licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 80cdf213; key2: 71c14ebd;
+TOMLAB_MIDACO licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 8c9c987e; key2: abd45864;
+TOMLAB_GUROBI grblic: demo; licnum: 999100; tusc: 2016-07-19; expr: 2016-07-19; secgen: 1; os: win32,win64,lnx,lnx64,osx64; hostname: ANY; hostid: ANY; username: ANY; sal: yes; matlablicnr: ANY; key1: 04f6c4e5; key2: 555c13c4;
